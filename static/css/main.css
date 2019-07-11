@@ -1,0 +1,150 @@
+.col-md-8 {
+    height: 550px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color: white;
+}
+#top-left-logo {
+    width: 250px;
+    margin-top:15px;
+}
+.top-column {
+    padding-left: 0px;
+}
+.box {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.menu-bar {
+    font-size: 12px;
+    text-align: center;
+    vertical-align: baseline;
+}
+.first-last-menu-divider {
+    color: white;
+}
+.middle-menu-divider {
+    color: rgb(199, 199, 199);
+}
+.menu-bar-container {
+    padding-left: 0px;
+    padding-right: 0px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.space-under-menu {
+    padding: 10px;
+}
+.left-middle-section {
+    padding-left: 0px;
+    padding-right: 50px;
+}
+.left-middle-image {
+    width: 110%;
+}
+#contact {
+    padding: 30px;
+    height: 150px;
+    font-size: 9px;
+}
+.welcome-header {
+    height: 15px;
+    font-size: 12px;
+    font-weight: 900px;
+}
+.body-text {
+    height:50px;
+    font-size: 10px;
+}
+#right-scroll-box {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    height: 250px;
+    overflow: auto;
+    background-color:#800000;
+    font-size: 10px;
+    color: white;
+}
+#who-left-box {
+    width: 170px;
+    padding: 15px;
+    height: 300px;
+    background-color:#800000;
+    font-size: 10px;
+    color: white;
+}
+hr {
+    border-style: inset;
+    border-width: 1px;  
+}
+.who-hr {
+    margin-bottom: 5px;
+    border-style: inset;
+    border-width: 1px;  
+    border-color: black;
+}
+body {
+    background-image: url("../img/nza_background.jpg");
+    background-size:cover;
+}
+.who-left-col {
+width
+}
+.who-right-col {
+
+}
+.who-sub-image {
+    width: 230px;
+}
+.who-sub-col-left {
+    padding-left: 14px;
+    width: 229px;
+}
+.who-sub-col-right {
+    padding-left: 14px;
+}
+.nav-link {
+    text-align: left;
+    padding-left: 0px;
+    width: 120px;
+}
+.footer-text {
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 0px;
+}
+.copyright-text {
+    text-align: center;
+    font-size: 9px;
+    color: grey;
+}
+#what-left-box {
+    width: 170px;
+    padding: 15px;
+    height: 340px;
+    background-color:#800000;
+    font-size: 10px;
+    color: white;
+    line-height: 95%;
+}
+.what-left-main-text {
+    line-height: 50%;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+.what-left-sub-text {
+    text-indent: 10px;
+    line-height: 50%;
+    margin-bottom: 5px;
+}
+.body-text-what {
+    height:70px;
+    font-size: 10px;
+    padding-left: 0px;
+}
+.col, .row, .col-md-8 {
+    border-width: 1px;
+    border-color: red;
+}
